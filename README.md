@@ -37,7 +37,7 @@ Thanks to the community for the fast adoption of FlashVSR! Below are some third-
 **ComfyUI Support**
 - **[smthemex/ComfyUI_FlashVSR](https://github.com/smthemex/ComfyUI_FlashVSR)** — closer to the official implementation  
 - **[lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast](https://github.com/lihaoyun6/ComfyUI-FlashVSR_Ultra_Fast)** — modified attention behavior, easier installation, and added `tile_dit`; I have not personally tested this version
-- **[naxci1/ComfyUI-FlashVSR_Stable](https://github.com/naxci1/ComfyUI-FlashVSR_Stable)** — community-maintained stable ComfyUI implementation with strong VRAM optimizations
+- **[naxci1/ComfyUI-FlashVSR_Stable](https://github.com/naxci1/ComfyUI-FlashVSR_Stable)** — community-maintained stable ComfyUI implementation with VRAM optimizations
 - **WanVideoWrapper** — integrated support but currently has known issues  
   https://github.com/kijai/ComfyUI-WanVideoWrapper/issues/1441
 
